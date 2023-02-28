@@ -27,7 +27,7 @@ For this project, tables to hold the data from CSV files were designed, CSV file
 ### Data Modeling
 
 
-Each CSV file was inspected and then an Entity Relationship Diagram of the tables were sketched. The sketch was completed with QuickDBD. This can be viewed in the Employee_ERD.png file. 
+Each CSV file was inspected and then an Entity Relationship Diagram of the tables were sketched. The sketch was completed with QuickDBD. This can be viewed in the Employees_ERD.png file. 
 
 
 
